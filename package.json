@@ -1,7 +1,7 @@
 {
   "name": "git-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "learning",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
@@ -20,5 +20,6 @@
   "homepage": "https://github.com/mannyadav/git-test#readme",
   "devDependencies": {
     "lite-server": "^2.4.0"
-  }
+  },
+  "dependencies": {}
 }
